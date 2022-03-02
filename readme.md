@@ -16,6 +16,5 @@ from the project dir. it should open a server.
 ## reloading
 
 what's great about `vite` is any changes to the source
-(either `index.html` or the code in `main.js`, which
-isn't being used currently) will update the browser
-automatically - instant feedback.
+(either `index.html` or the code in `main.js`)
+will update the browser automatically - instant feedback.
